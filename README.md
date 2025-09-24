@@ -3,7 +3,7 @@
 🎓 **Graduate in Computer Engineering** | Specialization: **Software & Data Engineering**  
 🌍 Based in Tunisia  
 💻 Passionate about **data-driven solutions**, **AI/ML**, and building **scalable software systems**.
-💼 Open to **collaborations and innovative projects**
+💼 Open to **collaborations and innovative projects**.
 ---
 
 ## 🛠️ My Tech Stack
